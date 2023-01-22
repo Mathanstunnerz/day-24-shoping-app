@@ -21,6 +21,7 @@ function Navbar (){
     <div>
       <div className="searchbar">
         <img className="logo"src ="Untitled-1.png"/>
+        {/* <h2 className="logo">Shopify</h2> */}
         <div className='shopingicon'>
         <button onClick ={()=>{
           setselet(!selet)
